@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     {/* // 1. <BrowserRouter>로 전체 앱을 감싸 라우팅 기능 활성화
-    <BrowserRouter></BrowserRouter> */}
+    <BrowserRouter> */}
       <nav>
         {/* 2. <Link>를 사용하여 페이지 간 이동 링크 생성 */}
         <Link to="/">홈</Link> | <Link to="/about">소개</Link>
